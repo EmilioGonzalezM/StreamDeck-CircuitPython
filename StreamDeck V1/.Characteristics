@@ -1,2 +1,6 @@
 5 buttons connected in Pull Down
 (from microcontroller to button - button to Vcc(3.3 v))
+
+Libraries you going to need:
+adafruit_hid:
+https://github.com/adafruit/Adafruit_CircuitPython_HID
