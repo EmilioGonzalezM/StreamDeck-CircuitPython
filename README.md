@@ -2,7 +2,7 @@
 You can create a macropad for yours stream in a easy and cheap way.
 
 Instrucctions
-You need to instal the crcuit python .UF2 File (Its diferent if you have Rasberry Pi Pico or Rasberry Pi Pico W):
+You need to install the crcuit python .UF2 File (Its diferent if you have Rasberry Pi Pico or Rasberry Pi Pico W, or another microcontroller):
 https://circuitpython.org/downloads
 
 Rasberry Pi Pico .UF2 File:
