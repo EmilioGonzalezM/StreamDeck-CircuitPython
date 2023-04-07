@@ -1,1 +1,8 @@
+To use the Oled, you need to install the libraries:
 
+adafruit_ssd1306
+adafruit_framebuf
+font5x8.bin    (Inside file examples)
+
+You can download a zip with all libraries here:
+https://circuitpython.org/libraries
